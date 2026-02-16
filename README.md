@@ -12,3 +12,18 @@ npx create-next-app@latest
 ```
 npm run dev
 ```
+
+### Uninstall Tailwind CSS version 4
+```
+npm uninstall tailwindcss
+```
+
+ ### Install Tailwind CSS version 3 and its helpers
+ ```
+npm install tailwindcss@3 postcss autoprefixer
+```
+
+### Initialize Tailwind
+```
+npx tailwindcss init -p 
+```
