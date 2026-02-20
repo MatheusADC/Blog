@@ -27,3 +27,13 @@ npm install tailwindcss@3 postcss autoprefixer
 ```
 npx tailwindcss init -p 
 ```
+
+### Install shadcn
+```
+npx shadcn@latest init
+```
+
+### Add a Button Component
+```
+npx shadcn@latest add button
+```
