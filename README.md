@@ -37,3 +37,8 @@ npx shadcn@latest init
 ```
 npx shadcn@latest add button
 ```
+
+### Install contentlayer & next-contentlayer
+```
+npm install contentlayer next-contentlayer --force
+```
