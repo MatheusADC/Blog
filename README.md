@@ -42,3 +42,8 @@ npx shadcn@latest add button
 ```
 npm install contentlayer next-contentlayer --force
 ```
+
+### Process project content files (fixes some import errors related to Contentlayer)
+```
+npx contentlayer build
+```
