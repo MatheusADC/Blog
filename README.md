@@ -47,3 +47,22 @@ npm install contentlayer next-contentlayer --force
 ```
 npx contentlayer build
 ```
+
+### Uninstall contentlayer & next-contentlayer
+```
+npm uninstall contentlayer next-contentlayer
+```
+
+### Install contentlayer2 next-contentlayer2
+```
+npm install contentlayer2 next-contentlayer2
+```
+
+### Process project content files (fixes some import errors related to Contentlayer2)
+```
+npx contentlayer2 build
+```
+### Add a Breadcrumb Component
+```
+npx shadcn@latest add breadcrumb
+```
