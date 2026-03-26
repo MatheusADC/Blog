@@ -62,7 +62,13 @@ npm install contentlayer2 next-contentlayer2
 ```
 npx contentlayer2 build
 ```
+
 ### Add a Breadcrumb Component
 ```
 npx shadcn@latest add breadcrumb
+```
+
+### Build and start the project
+```
+npm build && npm start
 ```
